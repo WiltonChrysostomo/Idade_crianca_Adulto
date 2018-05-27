@@ -1,0 +1,10 @@
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\bin\Debug\Idade_Crianca_Adulto_Idoso.exe.config
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\bin\Debug\Idade_Crianca_Adulto_Idoso.exe
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\bin\Debug\Idade_Crianca_Adulto_Idoso.pdb
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\obj\Debug\Idade_Crianca_Adulto_Idoso.csprojResolveAssemblyReference.cache
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\obj\Debug\Idade_Crianca_Adulto_Idoso.Form1.resources
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\obj\Debug\Idade_Crianca_Adulto_Idoso.Properties.Resources.resources
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\obj\Debug\Idade_Crianca_Adulto_Idoso.csproj.GenerateResource.cache
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\obj\Debug\Idade_Crianca_Adulto_Idoso.csproj.CoreCompileInputs.cache
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\obj\Debug\Idade_Crianca_Adulto_Idoso.exe
+D:\2-Reverdan\Estudo\Idade_Crianca_Adulto_Idoso\Idade_Crianca_Adulto_Idoso\obj\Debug\Idade_Crianca_Adulto_Idoso.pdb
